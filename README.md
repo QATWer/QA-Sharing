@@ -16,9 +16,20 @@
 
 ### 自动化测试
 1. 自动化测试框架
+* 1.1 自动化测试框架分类
+* 1.2 自动化测试框架设计
 2. UI自动化
-   2.1. Web
-   2.2. Mobile
+* 2.1 Web   
+  2.1.1 如何选择工具或者框架
+  2.1.2 工具篇
+  Selenium
+  Cucumber
+  Jasmine
+  Karma/Mocha
+  CodeceptJS
+  Cypress
+
+* 2.2 Mobile
 3. API测试
 4. 性能测试
 5. 单元测试
@@ -43,7 +54,13 @@
 
 ### 持续集成和交付
 
-### 其他
+### 测试技术
+1. 数据库
+2. Git
+3. Docker
+4. Linux命令
+5. 网络
+
 
 
 
