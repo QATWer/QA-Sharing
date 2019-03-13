@@ -1,1 +1,2 @@
-ssh_files/**
+secretfile filter=git-crypt diff=git-crypt
+ssh_files/** filter=git-crypt diff=git-crypt
