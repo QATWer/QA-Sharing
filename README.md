@@ -52,7 +52,7 @@
 #### Defects管理
 #### 流程改进和敏捷落地
 1 敏捷流程     
-2 [卡片模板（故事卡/技术卡/Defects卡)](https://github.com/QATWer/QA-Sharing/blob/master/card%20template "卡片模板")
+2 [卡片模板（故事卡/技术卡/Defects卡)](https://github.com/QATWer/QA-Sharing/blob/master/card%20template.md "卡片模板")
 #### 数据分析和线上监控
 #### 团队管理和培训
 
