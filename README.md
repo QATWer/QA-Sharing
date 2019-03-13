@@ -69,8 +69,8 @@
 
 ## 如何编辑Guide
 1. Download到本地, 可以利用本地编辑器编辑
-* 1.1 Get the git key files and put them into .ssh folder
-* 1.2 Edit config file into .ssh folder if there are multiple git accounts locally
+* 1.1 Get the two git key files and one config file and put them into /users/xxxx/.ssh folder
+* 1.2 If you have multiple git accounts, please edit config file into .ssh folder with adding the second one: id_rsa_twqa
 ```
 Host github.com
    User git
