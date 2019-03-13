@@ -67,6 +67,22 @@
 4. Linux命令
 5. 网络
 
+## 如何编辑Guide
+1. Download到本地, 可以利用本地编辑器编辑
+* 1.1 Get the git key files and put them into .ssh folder
+* 1.2 Edit config file into .ssh folder if there are multiple git accounts locally
+> Host github.com
+>> User git
+>> Hostname github.com
+>> IdentityFile ~/.ssh/id_rsa
+> Host github.com
+>> User git
+>> Hostname github.com
+>> IdentityFile ~/.ssh/id_rsa_twqa
+2. 直接在github上编辑
+
+
+
 
 
 
