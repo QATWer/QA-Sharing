@@ -21,14 +21,14 @@
 #### 2. UI自动化
 1. Web   
 1.1 如何选择工具或者框架
-工具篇
+1.2 工具篇
 * Selenium
 * Cucumber
 * Jasmine
 * Karma/Mocha
 * CodeceptJS
 * Cypress
-2 Mobile
+2. Mobile
   
 #### API测试
 #### 性能测试
